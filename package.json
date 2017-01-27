@@ -1,0 +1,21 @@
+{
+  "name": "distributed-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "drag-and-drop-files": "^0.0.1",
+    "filereader-stream": "^1.0.0",
+    "hyperlog": "^4.12.1",
+    "level-browserify": "^1.1.0",
+    "signalhub": "^4.8.0",
+    "webrtc-swarm": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
